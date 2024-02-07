@@ -7,8 +7,19 @@ Hi there! I'm a dedicated **Corporate Trainer in Data Science, Machine Learning 
 📚 **Author & Educator:**
 
 I've authored the following books aimed at demystifying the complexities of data science and machine learning:
-- ["Machine Learning and Deep Learning using Python and TensorFlow"](https://www.amazon.in/Machine-Learning-Using-Python-Tensorflow/dp/1260462293)
-- ["Practical Business Analytics using SAS"](https://www.amazon.in/Practical-Business-Analytics-Using-SAS/dp/1484200446)
+
+[Machine Learning and Deep Learning using Python and TensorFlow](https://www.amazon.in/Machine-Learning-Using-Python-Tensorflow/dp/1260462293)  
+[Practical Business Analytics using SAS](https://www.amazon.in/Practical-Business-Analytics-Using-SAS/dp/1484200446)
+
+<div style="display:flex; justify-content:space-between;">
+  <a href="https://www.amazon.in/Machine-Learning-Using-Python-Tensorflow/dp/1260462293">
+    <img src="https://m.media-amazon.com/images/W/MEDIAX_849526-T2/images/I/81v24NRppML._SY425_.jpg" width="15%">
+  </a>
+  <a href="https://www.amazon.in/Practical-Business-Analytics-Using-SAS/dp/1484200446">
+    <img src="https://m.media-amazon.com/images/W/MEDIAX_849526-T2/images/I/41tG4OI1FLL._SY445_SX342_.jpg" width="13.5%">
+  </a>
+</div>
+</br>
 
 🌟 **Professional Expertise:**
 
