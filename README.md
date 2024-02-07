@@ -39,12 +39,13 @@ My mission is to share knowledge and empower professionals to leverage Data Scie
 
 My toolkit includes:
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg"></code>
 
 <br />
 
+**To know more:**
 - 📧 [21.venkat@gmail.com]
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/venkata-reddy-konasani/)
 - 📚 [Amazon Books](https://www.amazon.in/stores/author/B00O731Q9A?ingress=0&visitId=573d9732-82c6-4cb7-bae6-31c3b83a9283&ref_=dbs_a_mng_rwt_scns_share)
