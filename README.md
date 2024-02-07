@@ -52,7 +52,7 @@ I'm always looking for collaboration opportunities and ways to share knowledge w
 
 - 📧 [21.venkat@gmail.com]
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/venkata-reddy-konasani/)
-- 🐦 [Amazon Books](https://www.amazon.in/stores/author/B00O731Q9A?ingress=0&visitId=573d9732-82c6-4cb7-bae6-31c3b83a9283&ref_=dbs_a_mng_rwt_scns_share)https://www.amazon.in/stores/author/B00O731Q9A?ingress=0&visitId=573d9732-82c6-4cb7-bae6-31c3b83a9283&ref_=dbs_a_mng_rwt_scns_share)
+- 🐦 [Amazon Books](https://www.amazon.in/stores/author/B00O731Q9A?ingress=0&visitId=573d9732-82c6-4cb7-bae6-31c3b83a9283&ref_=dbs_a_mng_rwt_scns_share)
 
 Thank you for visiting my profile. Let's embark on this journey of discovery and innovation together!
 
