@@ -38,21 +38,16 @@ My mission is to share knowledge and empower professionals to leverage Data Scie
 🔧 **Tools of the Trade:**
 
 My toolkit includes:
-- R
-- Python
-- SAS
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg"></code>
 
-🔍 **Looking Forward:**
-
-I am on a relentless quest to explore the uncharted territories of AI and Machine Learning, aiming to bridge the gap between theoretical knowledge and its practical application. I invite you to join me in this journey of continuous learning and innovation.
-
-## Connect With Me
-
-I'm always looking for collaboration opportunities and ways to share knowledge within the tech community. If you're interested in Data Science, Machine Learning, or AI, let's get in touch and make something amazing together.
+<br />
 
 - 📧 [21.venkat@gmail.com]
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/venkata-reddy-konasani/)
-- 🐦 [Amazon Books](https://www.amazon.in/stores/author/B00O731Q9A?ingress=0&visitId=573d9732-82c6-4cb7-bae6-31c3b83a9283&ref_=dbs_a_mng_rwt_scns_share)
+- 📚 [Amazon Books](https://www.amazon.in/stores/author/B00O731Q9A?ingress=0&visitId=573d9732-82c6-4cb7-bae6-31c3b83a9283&ref_=dbs_a_mng_rwt_scns_share)
 
 Thank you for visiting my profile. Let's embark on this journey of discovery and innovation together!
 
