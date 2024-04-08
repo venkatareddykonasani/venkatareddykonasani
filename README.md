@@ -4,7 +4,7 @@ Hi there! I'm a dedicated **Corporate Trainer in Data Science, Machine Learning 
 
 📺 **Check out my YouTube Channel!** 🚀
 
-Visit [Venkata Reddy AI Classes](https://www.youtube.com/@VenkataReddyAIClasses) 🎥✨
+Visit [Venkata Reddy AI Classes](https://github.com/venkatareddykonasani/Youtube_videos_Material) 🎥✨
 Here, you'll discover all of my video content and educational materials! 📚💡
 
 
