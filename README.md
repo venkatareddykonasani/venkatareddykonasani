@@ -1,6 +1,6 @@
-# Welcome ! 🚀
+# Hi there! 🚀
 
-Hi there! I'm a dedicated **Corporate Trainer in Data Science, Machine Learning & AI**, passionate about empowering professionals through education and practical application of data science and AI technologies. Let's dive into what makes my journey unique and how we can collaborate on this exciting path of continuous learning and innovation.
+I'm a dedicated **Corporate Trainer in Data Science, Machine Learning & AI**, passionate about empowering professionals through education and practical application of data science and AI technologies. Let's dive into what makes my journey unique and how we can collaborate on this exciting path of continuous learning and innovation.
 
 📺 **Check out my YouTube Channel!** 🚀
 
